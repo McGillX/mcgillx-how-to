@@ -1,0 +1,1 @@
+Search.setIndex({envversion:46,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{basic:0,commun:0,coupl:0,cours:0,document:0,index:0,main:0,manag:0,modul:0,monitor:0,organ:0,page:0,search:0,section:0,site:0},titles:["Welcome to McGillX&#8217;s How To Guide"],titleterms:{guid:0,how:0,indic:0,mcgillx:0,tabl:0,welcom:0}})
