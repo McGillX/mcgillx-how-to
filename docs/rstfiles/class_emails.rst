@@ -16,7 +16,6 @@ On the main course page:
 .. note:: Outlook will often block images from being displayed
 
 .. image:: ../../images/SendClassEmail.png
-   :alt: Send Class Email
 
    Send Class Email
 
