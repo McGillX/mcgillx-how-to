@@ -3,15 +3,16 @@ Welcome to McGillX's How To Guide
 
 The main documentation for the site is organized into a couple sections:
 
-* :ref:`basics`
+* :ref:`getting-started`
 * :ref:`course-management`
 * :ref:`course-communications`
 
-.. _basics:
+
+.. _getting-started:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Basics
+   :caption: Getting Started
    
    what_to_expect
    navigation
