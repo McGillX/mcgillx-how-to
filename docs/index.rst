@@ -4,7 +4,7 @@ Welcome to McGillX's How To Guide
 The main documentation for the site is organized into a couple sections:
 
 * :ref:`basics`
-* :ref:`course-monitoring`
+* :ref:`course-management`
 * :ref:`course-communications`
 
 .. _basics:
