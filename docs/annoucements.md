@@ -43,7 +43,9 @@ Note, when you create a new update there is no preview mode (it will be posted t
 
 ```
 
-[[images/CourseAnnoucement.png]]
+> ![image]
+
+  [image]: ../images/CourseAnnoucement.png
 
 <img src="https://github.com/McGillX/how-to/blob/master/Web%20Images/CourseAnnoucement.png?raw=true"/>
 <img src="https://github.com/McGillX/how-to/blob/master/Web%20Images/CourseAnnoucement2.png?raw=true"/>
