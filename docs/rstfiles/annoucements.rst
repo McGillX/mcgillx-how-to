@@ -33,6 +33,7 @@ applicable only if students have been asked to follow a specific thread
 for updates.) Respond to the thread with a link to the update.
  
  Thread Contents
+ 
 .. code-block::
 
     [Update: Title for Update][1]
