@@ -15,7 +15,7 @@ On the main course page:
 
 .. note:: Outlook will often block images from being displayed
 
-.. figure:: ../../images/SendClassEmail.png
+.. image:: ../../images/SendClassEmail.png
    :alt: Send Class Email
 
    Send Class Email
@@ -75,7 +75,6 @@ Share This Course Icons
 - The share icon URLs should match the course from which the email is being sent
 
 .. code-block:: html
-   :emphasize-lines: 4,6
 
     <div align="center">
     <p>Share this course</p>
