@@ -62,11 +62,11 @@ In studio.edx.org:
 
 Share This Course Icons
 -----------------------
-::
+
     Be sure the icons are uploaded to the course
     The urls linking to the images of the icons should match the course from which the email is being sent
-    
-.. code-block:: html
+
+.. code-block::
 
 <div align="center">
 <p>Share this course</p>
@@ -75,6 +75,5 @@ Share This Course Icons
 <a href="http://www.facebook.com/sharer.php?u=https://www.edx.org/course/natural-disasters-mcgillx-atoc185x#.VH3YpzHF98E" target="_blank"><img src="courses.edx.org/c4x/McGillX/ATOC185x_2/asset/facebook-icon.png" alt="Facebook"/></a> &nbsp;&nbsp;
   <a href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=https://www.edx.org/course/natural-disasters-mcgillx-atoc185x#.VH3YpzHF98E" target="_blank"><img src="courses.edx.org/c4x/McGillX/ATOC185x_2/asset/google-plus-icon.png" alt="Google+"/></a> &nbsp;&nbsp;
   <a href="http://twitter.com/share?url=https://www.edx.org/course/natural-disasters-mcgillx-atoc185x#.VH3YpzHF98E;text=Description" target="_blank"><img src="courses.edx.org/c4x/McGillX/ATOC185x_2/asset/twitter-icon.png" alt="Twitter"/></a>&nbsp;&nbsp;
-     
  </p>
 </div>
