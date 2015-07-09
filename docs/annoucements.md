@@ -42,7 +42,7 @@ Note, when you create a new update there is no preview mode (it will be posted t
   [1]: https://courses.edx.org/courses/McGillX/ATOC185x_2/1T2015/info#title-of-update
 
 ```
-
+[[images/CourseAnnoucement.png]]
 <img src="https://github.com/McGillX/how-to/blob/master/Web%20Images/CourseAnnoucement.png?raw=true"/>
 <img src="https://github.com/McGillX/how-to/blob/master/Web%20Images/CourseAnnoucement2.png?raw=true"/>
 <img src="https://github.com/McGillX/how-to/blob/master/Web%20Images/CourseAnnoucement3Preview.png?raw=true"/>
