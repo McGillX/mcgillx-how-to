@@ -25,7 +25,7 @@ The main documentation for the site is organized into a couple sections:
    :caption: Course Communications
    :name: course-communications
    
-   mdfiles/annoucements
+   rstfiles/annoucements
    mdfiles/creating_course_discussion_threads
    rstfiles/class_emails
 
