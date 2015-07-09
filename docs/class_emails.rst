@@ -63,8 +63,8 @@ In studio.edx.org:
 Share This Course Icons
 -----------------------
 
-Be sure the icons are uploaded to the course
-The urls linking to the share icons should match the course from which the email is being sent
+- Be sure the icons are uploaded to the course
+- The urls linking to the share icons should match the course from which the email is being sent
 
 .. code-block:: html
     :linenos:
