@@ -1,0 +1,38 @@
+## Navigation
+
+### Courseware
+In the courseware tab, you will find the lessons, assignments, additional materials, questions and comments.
+
+When students ask questions, have them refer to the specific week/topic #, video #, question #, and time mark in the video.
+
+<img src="https://github.com/McGillX/how-to/blob/master/Web%20Images/Navigation_Courseware.png?raw=true">
+___
+### Progress
+
+In the Progress tab, students are able to look at their scores. Students may be unclear about the grading scheme, which is explained in the syllabus. 
+___
+### Syllabus
+
+The syllabus has course topic descriptions as well as the due dates. Refer students to the syllabus if they ask about assignment or quiz due dates, or complain about having missed a due date. The syllabus also includes a description of the grading scheme for the course.
+
+___
+### Discussion
+
+When posting or responding in the discussion board try to support your claims and arguments with citations. If you are simply stating your opinion, make sure to mention that in your comment. 
+
+___
+### Course Release Schedule
+
+The syllabus states the course release schedule on the left hand side. The deadlines are in the right hand column.
+
+insert image
+
+___
+### Additional Tabs
+Some courses may have additional supplementary pages that are linked to from the main menu bar. For example, Body101x had a link to a Q&A Section that was done in collaboration with the British Journal of Sports Medicine.
+
+Insert image
+
+___
+### Graded versus ungraded problems (problems vs surveys, polls and word clouds)
+Polls, word clouds, and surveys are ungraded. Other forms of questions are graded.
