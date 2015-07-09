@@ -11,19 +11,16 @@ On the main course page:
 3. Compose the email using the HTML editor (copy and paste the template
    below)
 4. Test the email by sending it to yourself first (be sure to preview it
-   in both Gmail and another email client such as Outlook\*)
+   in both Gmail and another email client such as Outlook)
 
-\*Outlook will often block images from being displayed
+.. note:: Outlook will often block images from being displayed
 
 .. figure:: ../../images/SendClassEmail.png
    :alt: Send Class Email
 
    Send Class Email
 
-Important Notes:
-
-.. note:: The email Subject no longer automatically includes the course name
-([Course Name] used to appear before emails automatically)
+.. note:: The email Subject no longer automatically includes the course name ([Course Name] used to appear before emails automatically).
 
 Template
 --------
@@ -65,32 +62,19 @@ In studio.edx.org:
 
 Share This Course Icons
 -----------------------
-
 ::
-
     Be sure the icons are uploaded to the course
     The urls linking to the images of the icons should match the course from which the email is being sent
+    
+.. code-block:: html
 
-\`\`\`
-
-.. raw:: html
-
-   <div align="center">
-
-.. raw:: html
-
-   <p>
-
-Share this course
-
-.. raw:: html
-
-   </p>
-
-.. raw:: html
-
-   <p>
-
-         <a
-href=“http://twitter.com/share?url=https://www.edx.org/course/natural-disasters-mcgillx-atoc185x#.VH3YpzHF98E;text=Description”
-ta
+<div align="center">
+<p>Share this course</p>
+ <p>
+ &nbsp;&nbsp; 
+<a href="http://www.facebook.com/sharer.php?u=https://www.edx.org/course/natural-disasters-mcgillx-atoc185x#.VH3YpzHF98E" target="_blank"><img src="courses.edx.org/c4x/McGillX/ATOC185x_2/asset/facebook-icon.png" alt="Facebook"/></a> &nbsp;&nbsp;
+  <a href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=https://www.edx.org/course/natural-disasters-mcgillx-atoc185x#.VH3YpzHF98E" target="_blank"><img src="courses.edx.org/c4x/McGillX/ATOC185x_2/asset/google-plus-icon.png" alt="Google+"/></a> &nbsp;&nbsp;
+  <a href="http://twitter.com/share?url=https://www.edx.org/course/natural-disasters-mcgillx-atoc185x#.VH3YpzHF98E;text=Description" target="_blank"><img src="courses.edx.org/c4x/McGillX/ATOC185x_2/asset/twitter-icon.png" alt="Twitter"/></a>&nbsp;&nbsp;
+     
+ </p>
+</div>
