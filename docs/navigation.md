@@ -1,4 +1,4 @@
-##Navigation
+## Navigation
 
 ### Courseware
 In the courseware tab, you will find the lessons, assignments, additional materials, questions and comments.
