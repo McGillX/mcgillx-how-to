@@ -15,9 +15,7 @@ On the main course page:
 
 .. note:: Outlook will often block images from being displayed
 
-.. image:: ../../images/SendClassEmail.png
-
-   Send Class Email
+.. figure:: ../../images/SendClassEmail.png
 
 .. note:: The email Subject no longer automatically includes the course name ([Course Name] used to appear before emails automatically).
 
