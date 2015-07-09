@@ -21,7 +21,6 @@ The main documentation for the site is organized into a couple sections:
    
 .. toctree::
    :maxdepth: 2
-   :glob:
    :caption: Course Management
 
    discussion_monitoring
@@ -31,7 +30,6 @@ The main documentation for the site is organized into a couple sections:
 
 .. toctree::
    :maxdepth: 2
-   :glob:
    :caption: Course Communications
    
    annoucements
