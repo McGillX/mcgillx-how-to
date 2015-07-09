@@ -1,8 +1,10 @@
+ ## Creating Course Annoucements
+
 1. Draft the announcement in **studio.edge.edx.org** 
 
 Select "**Updates**" from the "**Content**" tab.
 
-Use this template: 
+Copy and paste the template below into the html editor: 
 ```
 
 

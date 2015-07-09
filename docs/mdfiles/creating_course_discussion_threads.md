@@ -1,3 +1,4 @@
+## Creating Course Discussion Threads
 
 ### Open both the studio page and the course page related to the activity.
 

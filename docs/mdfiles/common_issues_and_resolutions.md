@@ -1,3 +1,5 @@
+## Common Issues and Resolutions
+
 ### UTC Time Zone Due Dates
 
 Students will frequently be confused by the due dates, not realizing that the deadlines are stated in the UTC/GMT time zone. You can suggest they visit use a website such as [timeanddate](http://www.timeanddate.com/worldclock/converter.html) to convert UTC time to their local time.

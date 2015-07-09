@@ -1,3 +1,5 @@
+## Discussion Monitoring
+
 ###  Following Discussion Threads
 
 After responding to a student post, **follow** the post by pressing the star icon. This will notify you if a student asks a follow up question, or response on that post at a later date. 

@@ -1,4 +1,4 @@
-### What to Expect
+## What to Expect
 
 * In the first few weeks of the course, expect a lot of student introductions. You do not need to respond or read all of these.
 * Student participation in the forum will drop off substantially as the course continues.

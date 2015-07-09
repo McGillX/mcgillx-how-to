@@ -1,3 +1,5 @@
+## Class Emails
+
 ### Composing and Sending an Email
 
 On the main course page:

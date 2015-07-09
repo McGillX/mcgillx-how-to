@@ -14,8 +14,8 @@ The main documentation for the site is organized into a couple sections:
    :maxdepth: 2
    :caption: Getting Started
    
-   what_to_expect
-   navigation
+   mdfiles/what_to_expect
+   mdfiles/navigation
    
 .. _course-management:
    
@@ -23,8 +23,8 @@ The main documentation for the site is organized into a couple sections:
    :maxdepth: 2
    :caption: Course Management
 
-   discussion_monitoring
-   get_class_results_to_a_problem
+   mdfiles/discussion_monitoring
+   mdfiles/get_class_results_to_a_problem
    
 .. _course-communications:
 
@@ -32,9 +32,9 @@ The main documentation for the site is organized into a couple sections:
    :maxdepth: 2
    :caption: Course Communications
    
-   annoucements
-   creating_course_discussion_threads
-   class_emails
+   mdfiles/annoucements
+   mdfiles/creating_course_discussion_threads
+   mdfiles/class_emails
 
 Indices and tables
 ==================
