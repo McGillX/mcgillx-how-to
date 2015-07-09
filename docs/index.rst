@@ -28,6 +28,7 @@ The main documentation for the site is organized into a couple sections:
    mdfiles/annoucements
    mdfiles/creating_course_discussion_threads
    mdfiles/class_emails
+   class_emails
 
 Indices and tables
 ==================
