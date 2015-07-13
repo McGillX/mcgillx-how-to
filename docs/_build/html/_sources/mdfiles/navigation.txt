@@ -32,6 +32,6 @@ Some courses may have additional supplementary pages that are linked to from the
 ![image](../../images/BJSM_QnA.png)
 
 ___
-### Graded versus ungraded problems (problems vs surveys, polls and word clouds)
+### Graded versus ungraded problems
 
-Polls, word clouds, and surveys are ungraded. Other forms of questions are graded.
+Polls, word clouds, and surveys are ungraded. Other forms of questions are typically graded, review the syllabus for specifics.
