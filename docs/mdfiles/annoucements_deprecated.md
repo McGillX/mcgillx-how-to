@@ -7,7 +7,6 @@ Select "**Updates**" from the "**Content**" tab.
 Copy and paste the template below into the html editor: 
 ```
 
-
 <h1 id="#replace-with-title"><b>REPLACE WITH TITLE</b></h1>
 
 <p>TEXT</p>

@@ -1,11 +1,9 @@
 ## Navigation
 
 ### Courseware
+
 In the courseware tab, you will find the lessons, assignments, additional materials, questions and comments.
 
-When students ask questions, have them refer to the specific week/topic #, video #, question #, and time mark in the video.
-
-![image](../../images/Navigation_Courseware.png)
 ___
 ### Progress
 
@@ -18,21 +16,22 @@ The syllabus has course topic descriptions as well as the due dates. Refer stude
 ___
 ### Discussion
 
-When posting or responding in the discussion board try to support your claims and arguments with citations. If you are simply stating your opinion, make sure to mention that in your comment. 
+This tab serves as a space for students to ask questions and collaborate.
 
 ___
 ### Course Release Schedule
 
 The syllabus states the course release schedule on the left hand side. The deadlines are in the right hand column.
 
-insert image
+![image](../../images/Syllabus_Deadline_and_Release_Schedule.png)
 
 ___
 ### Additional Tabs
 Some courses may have additional supplementary pages that are linked to from the main menu bar. For example, Body101x had a link to a Q&A Section that was done in collaboration with the British Journal of Sports Medicine.
 
-Insert image
+![image](../../images/BJSM_QnA.png)
 
 ___
 ### Graded versus ungraded problems (problems vs surveys, polls and word clouds)
+
 Polls, word clouds, and surveys are ungraded. Other forms of questions are graded.

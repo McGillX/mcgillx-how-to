@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Download Class Results to a Problem &mdash; McGillX How To 0.0.1 documentation</title>
+  <title>Creating Course Annoucements &mdash; McGillX How To 0.0.1 documentation</title>
   
 
   
@@ -30,9 +30,7 @@
   
 
   
-    <link rel="top" title="McGillX How To 0.0.1 documentation" href="../index.html"/>
-        <link rel="next" title="Common Issues and Resolutions" href="common_issues_and_resolutions.html"/>
-        <link rel="prev" title="Discussion Monitoring" href="discussion_monitoring.html"/> 
+    <link rel="top" title="McGillX How To 0.0.1 documentation" href="../index.html"/> 
 
   
   <script src="_static/js/modernizr.min.js"></script>
@@ -86,7 +84,7 @@
 </li>
 </ul>
 <p class="caption"><span class="caption-text">Course Management</span></p>
-<ul class="current">
+<ul>
 <li class="toctree-l1"><a class="reference internal" href="discussion_monitoring.html">Discussion Monitoring</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="discussion_monitoring.html#general-advice">General Advice</a></li>
 <li class="toctree-l2"><a class="reference internal" href="discussion_monitoring.html#following-discussion-threads">Following Discussion Threads</a></li>
@@ -100,7 +98,7 @@
 <li class="toctree-l2"><a class="reference internal" href="discussion_monitoring.html#students-categorizing-discussion-posts-as-discussions-or-questions">Students Categorizing Discussion Posts as Discussions or Questions</a></li>
 </ul>
 </li>
-<li class="toctree-l1 current"><a class="current reference internal" href="">Download Class Results to a Problem</a></li>
+<li class="toctree-l1"><a class="reference internal" href="get_class_results_to_a_problem.html">Download Class Results to a Problem</a></li>
 <li class="toctree-l1"><a class="reference internal" href="common_issues_and_resolutions.html">Common Issues and Resolutions</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="common_issues_and_resolutions.html#utc-time-zone-due-dates">UTC Time Zone Due Dates</a></li>
 <li class="toctree-l2"><a class="reference internal" href="common_issues_and_resolutions.html#problems-with-drag-and-drop">Problems with Drag and Drop</a></li>
@@ -152,11 +150,11 @@
   <ul class="wy-breadcrumbs">
     <li><a href="../index.html">Docs</a> &raquo;</li>
       
-    <li>Download Class Results to a Problem</li>
+    <li>Creating Course Annoucements</li>
       <li class="wy-breadcrumbs-aside">
         
           
-            <a href="../_sources/mdfiles/get_class_results_to_a_problem.txt" rel="nofollow"> View page source</a>
+            <a href="../_sources/mdfiles/annoucements_deprecated.txt" rel="nofollow"> View page source</a>
           
         
       </li>
@@ -165,32 +163,55 @@
 </div>
           <div role="main" class="document">
             
-  <div class="section" id="download-class-results-to-a-problem">
-<span id="download-class-results-to-a-problem"></span><h1>Download Class Results to a Problem<a class="headerlink" href="#download-class-results-to-a-problem" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="creating-course-annoucements">
+<span id="creating-course-annoucements"></span><h1>Creating Course Annoucements<a class="headerlink" href="#creating-course-annoucements" title="Permalink to this headline">¶</a></h1>
 <ol class="simple">
-<li>Find the problem location in the courseware.</li>
-<li>Click <strong>Staff Debug Info</strong>, and note the location.</li>
-<li>Then go to the <strong>INSTRUCTOR</strong> tab, click <strong>Data Download</strong>, and click <strong>answer_distribution.csv</strong>.</li>
-<li>Open this downloaded file, and use the search function to find the problem location you found in the <strong>Staff Debug Info</strong>.</li>
+<li>Draft the announcement in <strong>studio.edge.edx.org</strong></li>
 </ol>
-<p><img alt="image" src="../_images/ClassResultsDownload1.png" /></p>
-<p><img alt="image" src="../_images/ClassResultsDownload2.png" /></p>
-<p><img alt="image" src="../_images/ClassResultsDownload3.png" /></p>
-<p><img alt="image" src="../_images/ClassResultsDownload4.png" /></p>
+<p>Select &#8220;<strong>Updates</strong>&#8221; from the &#8220;<strong>Content</strong>&#8221; tab.</p>
+<p>Copy and paste the template below into the html editor:</p>
+<pre class="literal-block">
+
+&lt;h1 id=&quot;#replace-with-title&quot;&gt;&lt;b&gt;REPLACE WITH TITLE&lt;/b&gt;&lt;/h1&gt;
+
+&lt;p&gt;TEXT&lt;/p&gt;
+
+&lt;br&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/ReplaceWithYouTubeId?wmode=transparent&amp;amp;modestbranding=1&amp;amp;showinfo=0&amp;amp;rel=0&quot; allowfullscreen=&quot;&quot; height=&quot;360&quot; width=&quot;640&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;p&gt;TEXT&lt;/p&gt;
+
+&lt;br&gt;
+
+&lt;h3&gt;Subtitle paragraph below with event time annoucement&lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;p&gt;Your first assignment which is due on Friday, February 13 at 23:30 UTC (click&lt;a href=&quot;http://www.timeanddate.com/worldclock/fixedtime.html?msg=Homework%3A+Assignment+%231&amp;iso=20150213T1130&amp;p1=1440&quot; target=&quot;_blank&quot;&gt; here &lt;/a&gt;to see time conversion).&lt;/p&gt;
+
+</pre>
+<p>2.Preview the announcement in the live edge course</p>
+<p>3.Copy the same html to the <strong>studio.edx.org</strong> course</p>
+<p>Note, when you create a new update there is no preview mode (it will be posted to the course space and be visible to student&#8217;s as soon as you save)</p>
+<p>4.(Optional) Post the URL to the discussion updates thread. (This is applicable only if students have been asked to follow a specific thread for updates.) Respond to the thread with a link to the update.</p>
+<pre class="literal-block">
+[Update: Title for Update][1]
+
+
+  [1]: https://courses.edx.org/courses/McGillX/ATOC185x_2/1T2015/info#title-of-update
+
+</pre>
+<p><img alt="CourseAnnoucement Screenshot 1" src="../_images/CourseAnnoucement.png" />
+<img alt="CourseAnnoucement Screenshot 2" src="../_images/CourseAnnoucement2.png" />
+<img alt="CourseAnnoucement Screenshot 3" src="../_images/CourseAnnoucement3Preview.png" /></p>
 </div>
 
 
           </div>
           <footer>
-  
-    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-      
-        <a href="common_issues_and_resolutions.html" class="btn btn-neutral float-right" title="Common Issues and Resolutions" accesskey="n">Next <span class="fa fa-arrow-circle-right"></span></a>
-      
-      
-        <a href="discussion_monitoring.html" class="btn btn-neutral" title="Discussion Monitoring" accesskey="p"><span class="fa fa-arrow-circle-left"></span> Previous</a>
-      
-    </div>
   
 
   <hr/>

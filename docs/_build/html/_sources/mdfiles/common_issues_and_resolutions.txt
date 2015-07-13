@@ -34,7 +34,7 @@ To check a specific students progress, click the **instructor** tab, then the **
 To look at a student's responses to a specific question:
 
 1. Find the question location in the courseware. (Students will typically complain about specific questions located on a single page.) 
-2. Click "submission history" and enter the student's username. You can now scroll through all of the students submissions, and see the location of the question. At times it might be hard to find the answer in the code (which is written in JSON), so keep in mind what the answer should look like. 
+2. Click "Submission History" and enter the student's username. You can now scroll through all of the students submissions, and see the location of the question. At times it might be hard to find the answer in the code (which is written in JSON), so keep in mind what the answer should look like. 
 
 ![image](../../images/CommonIssues_ProblemResponseHistory.png)
 
