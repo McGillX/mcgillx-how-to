@@ -47,7 +47,7 @@ In studio.edx.org:
 1. upload the image to the course page with the following
    specifications:
 
--  A unique name with no special characters or spaces
+-  A unique name. Do not include spaces or special characters (!, &, ?) in the file name. Use underscores, hyphens, letters and numbers only.
 -  A width of 600px or less (!Important, do not try using html to resize
    the image, it will not work for email clients such as outlook)
 
