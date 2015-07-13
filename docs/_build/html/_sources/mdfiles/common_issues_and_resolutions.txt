@@ -1,5 +1,27 @@
 ## Common Issues and Resolutions
 
+### Common Discussion Forum Issues
+
+Students will typically have several issues with regards to the discussion forum:
+
+#### Students Unable to Upload Images
+
+They may have problems uploading images to their posts. This is commonly because the image size is limited, and they do not know how to compress the image. In this case, you might ask them to find an image elsewhere on the internet and share the link, or simply to describe the image. 
+
+#### Students Posting Answers in Discussion Posts
+
+Students may post answers to problem questions in the forum. We encourage students to ask for clarification and ensure their understanding but we ask that students avoid posting the answers to problems. Should students create a post containing answers replace their answers with "XXXX". Add an explanation for the edit at the bottom of the post. 
+
+Note: Posting and discussing ungraded problems answers is fine, but posting answers to graded problems before the deadline has passed is not.
+
+<img src="https://github.com/McGillX/how-to/blob/master/Web%20Images/CommonIssues_Answers%20in%20DiscussionForumSmall.png?raw=true"/>
+
+<img src="https://github.com/McGillX/how-to/blob/master/Web%20Images/CommonIssues_Answers%20in%20DiscussionForum2Small.png?raw=true"/>
+
+#### Students Categorizing Discussion Posts as Discussions or Questions
+
+Students who are new to edX may categorize their posts incorrectly. Remind the students that for their future posts, they have the option of classifying the post as either **discussion** or **question**. If their post was incorrectly categorized as a question, mark your response as the answer. Additionally, you can edit their post and change the categorization manually.
+
 ### UTC Time Zone Due Dates
 
 Students will frequently be confused by the due dates, not realizing that the deadlines are stated in the UTC/GMT time zone. You can suggest they visit use a website such as [timeanddate](http://www.timeanddate.com/worldclock/converter.html) to convert UTC time to their local time.
