@@ -14,9 +14,10 @@ Students may post answers to problem questions in the forum. We encourage studen
 
 Note: Posting and discussing ungraded problems answers is fine, but posting answers to graded problems before the deadline has passed is not.
 
-<img src="https://github.com/McGillX/how-to/blob/master/Web%20Images/CommonIssues_Answers%20in%20DiscussionForumSmall.png?raw=true"/>
+![image](../../images/CommonIssues_Answers_in_DiscussionForumSmall.png)
 
-<img src="https://github.com/McGillX/how-to/blob/master/Web%20Images/CommonIssues_Answers%20in%20DiscussionForum2Small.png?raw=true"/>
+![image](../../images/CommonIssues_Answers_in_DiscussionForum2Small.png)
+
 
 #### Students Categorizing Discussion Posts as Discussions or Questions
 

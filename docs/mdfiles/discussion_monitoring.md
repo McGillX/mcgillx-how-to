@@ -36,14 +36,16 @@ ___
 
 To receive notifications of new responses in the daily digest email, make sure you have signed up for it. This page is displayed when you click the discussion tab in the header.
 
-<img src="https://github.com/McGillX/how-to/blob/master/Web%20Images/Discussion_SubsciptionEmailDigestSmall.png?raw=true">
+![image](../../images/Discussion_SubsciptionEmailDigestSmall.png)
+
 
 ___
 ### Discussion Filtering
 
 To filter discussions by category or by type, click on the appropriate icon.
 
-<img src="https://github.com/McGillX/how-to/blob/master/Web%20Images/Discussion_FilteringCategoriesSmall.png?raw=true"/>
+![image](../../images/Discussion_FilteringCategoriesSmall.png)
+
 ___
 
 

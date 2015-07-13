@@ -20,21 +20,21 @@ Copy and paste the template below into the html editor:
     <br>
     <p>Your first assignment which is due on Friday, February 13 at 23:30 UTC (click<a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Homework%3A+Assignment+%231&iso=20150213T1130&p1=1440" target="_blank"> here </a>to see time conversion).</p>
 
-2.Preview the announcement in the live edge course
+2. Preview the announcement in the live edge course
 
-3.Copy the same html to the **studio.edx.org** course
+3. Copy the same html to the **studio.edx.org** course
 
 Note, when you create a new update there is no preview mode (it will be
 posted to the course space and be visible to student’s as soon as you
 save)
 
-4.(Optional) Post the URL to the discussion updates thread. (This is
+4. (Optional) Post the URL to the discussion updates thread. (This is
 applicable only if students have been asked to follow a specific thread
 for updates.) Respond to the thread with a link to the update.
  
  Thread Contents
  
-.. code-block::
+.. code-block:: html
 
     [Update: Title for Update][1]
       [1]: https://courses.edx.org/courses/McGillX/ATOC185x_2/1T2015/info#title-of-update
@@ -45,3 +45,5 @@ for updates.) Respond to the thread with a link to the update.
 .. figure:: ../../images/CourseAnnoucement2.png
 
 .. figure:: ../../images/CourseAnnoucement3Preview.png
+
+.. important:: If you upload images or other files to the course do not include spaces or special characters (!, &, ?) in the file name. Use underscores, hyphens, letters and numbers only.
