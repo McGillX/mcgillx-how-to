@@ -21,9 +21,9 @@
 
 ### On the Studio Page:
 
-1. click edit on the component which contains the “here” hyperlink
+1. Click edit on the component which contains the “here” hyperlink
 2. In the window that opens edit the html
-3. find the href=””
+3. Find the href=””
 4. href = “Paste Url for Discussion Post Here”
 5. Click save
 6. Click Publish
