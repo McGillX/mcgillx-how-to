@@ -4,8 +4,6 @@
 
 - Do your best to respond to students in a timely fashion. For issues that may take further investigation, inform students that you are looking into the issues and will get back to them shortly.
 
-- When posting or responding in the discussion board try to support your claims and arguments with citations. If you are stating your opinion, make sure to mention that in your comment. 
-
 - Students starting the course late will be discussing topics already covered by the majority of the class. It may be helpful to refer these newer students to specific forum posts in which those topics were covered.
 
 - Students will post responses to staff initiated discussion questions in individual posts instead of the designated staff threads. If you respond to these, advise them to respond to the appropriate thread in the future. 
@@ -16,7 +14,7 @@
 
 - In the first few weeks of the course, expect a lot of student introductions. You do not need to respond or read all of these.
 
-- Students often forget to reference the location of the issue within the course. Politely ask them refer to the speIn the first few weeks of the course, expect a lot of student introductions. You do not need to respond or read all of these.cific week/topic #, video #, question #, and time mark in the video so that you may better assist them.
+- Students often forget to reference the location of the issue within the course. Politely ask them refer to the specific week/topic #, video #, question #, and time mark in the video so that you may better assist them.
 
 ![image](../../images/Navigation_Courseware.png)
 
