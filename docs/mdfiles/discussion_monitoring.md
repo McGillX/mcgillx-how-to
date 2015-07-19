@@ -50,7 +50,7 @@ To receive notifications of new responses in the daily digest email, make sure y
 ___
 ### Discussion Filtering
 
-To filter discussions by category or by type, click on the appropriate icon.
+To filter discussions by category or by type, click on the appropriate icon. To look at discussions that pertain to a specific lesson or topic, filter by category. To look only at unread, unanswered, or flagged posts, click on the indicated icon. To filter posts by recent activity, total activity, or total votes, click on the final icon. Multiple filters can be applied simultaneously. For example, you could order the posts of a specific topic by most recent activity.
 
 ![image](../../images/Discussion_FilteringCategoriesSmall.png)
 
