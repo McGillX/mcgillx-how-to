@@ -1,5 +1,7 @@
 ## Creating Course Discussion Threads
 
+Course Discussion Threads need to be intergrated with the course material, with links going to and from the post to the material.  
+
 ### Open the studio and course page related to the activity
 
 
@@ -8,12 +10,15 @@
 ![image](../../images/StaffThreads2.png)
 
 ### On the Course Page:
-1. Create a “New Post” [STAFF]:...
-2. Click the upper navbar “Discussion” tab
+
+Here you will create a create a thread on the discussion forum.
+
+1. Click the upper navbar “Discussion” tab
+2. Create a “New Post” [STAFF]:...
 3. Find the post you just created
 4. Pin the post to the top of the discussion
 5. Open the post
-6. Right click the post and copy the link address
+6. Right click the post and copy the URL for the discussion thread
 
 ![image](../../images/StaffThreads3Small.png)
 
@@ -29,6 +34,7 @@
 6. Click Publish
 7. Test that the hyperlink on the studio page takes you to the discussion post.
 
+inset image staff threads 3.5
 ![image](../../images/StaffThreads4.png)
 
 
