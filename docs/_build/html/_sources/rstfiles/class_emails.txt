@@ -2,7 +2,7 @@ Class Emails
 ============
 
 Composing and Sending an Email
-------------------------------
+-----------------------------------------------
 
 On the main course page:
 
@@ -20,7 +20,7 @@ On the main course page:
 .. note:: The email Subject no longer automatically includes the course name ([Course Name] used to appear before emails automatically).
 
 Template
---------
+-------------
 
 .. code-block:: html
 
@@ -40,7 +40,7 @@ Template
    </div>
 
 Adding an Image to an Email
----------------------------
+-----------------------------------------
 
 In studio.edx.org:
 
@@ -66,7 +66,7 @@ In studio.edx.org:
     <img src="https://courses.edx.org/c4x/McGillX/ATOC185x/asset/email_to_summer_professors_campus_600px.jpg" alt="picture of professors" />
 
 Share This Course Icons
------------------------
+---------------------------------
 
 - Be sure the icons are uploaded to the course
 - The share icon URLs should match the course from which the email is being sent

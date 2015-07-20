@@ -2,6 +2,8 @@
 
 ### General Advice
 
+- Polls, word clouds, and surveys are ungraded. Other forms of questions are typically graded, review the syllabus for specifics.
+
 - Do your best to respond to students in a timely fashion. For issues that may take further investigation, inform students that you are looking into the issues and will get back to them shortly.
 
 - Students starting the course late will be discussing topics already covered by the majority of the class. It may be helpful to refer these newer students to specific forum posts in which those topics were covered.
