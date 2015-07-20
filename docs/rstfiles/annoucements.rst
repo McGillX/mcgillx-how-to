@@ -3,7 +3,9 @@ Creating Course Annoucements
 
 1. Draft the announcement in **studio.edge.edx.org**
 
-Select “**Updates**” from the “**Content**” tab.
+Select “**Updates**” from the “**Content**” tab. Select "New Update."
+
+.. figure:: ../../images/CourseAnnoucement.png
 
 Copy and paste the template below into the html editor:
 
@@ -20,9 +22,11 @@ Copy and paste the template below into the html editor:
     <br>
     <p>Your first assignment which is due on Friday, February 13 at 23:30 UTC (click<a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Homework%3A+Assignment+%231&iso=20150213T1130&p1=1440" target="_blank"> here </a>to see time conversion).</p>
     
-    .. figure:: ../../images/CourseAnnoucement.png
 
-2. Preview the announcement in the live edge course
+
+.. figure:: ../../images/CourseAnnoucement2.png
+
+2. Post and preview the announcement in the live edge course
 
 3. Copy the same html to the **studio.edx.org** course
 
@@ -44,7 +48,7 @@ for updates.) Respond to the thread with a link to the update.
 
 
 
-.. figure:: ../../images/CourseAnnoucement2.png
+
 
 .. figure:: ../../images/CourseAnnoucement3Preview.png
 
