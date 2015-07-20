@@ -72,8 +72,14 @@ If a student has an issue with a problem/exercise it's often useful to check the
 
 To look at a student’s responses to a specific question:
 
-1. Find the question location in the courseware. (Students will typically complain about specific questions located on a single page.)
+1. Find the question location in the courseware.
 2. Click “**SUBMISSION HISTORY**” and enter the student’s username. You can now scroll through all of the students submissions, and see the location of the question. At times it might be hard to find the answer in the code (which is written in JSON), so keep in mind what the answer should look like.
+ - Pay attention to the following fields:
+    "last_submission_time": "2015-07-20T19:21:17Z"
+    "student_answers": {"62be225bca294ef09c45b4b92802be71_2_1": "choice_2", "62be225bca294ef09c45b4b92802be71_3_1": "choice_1"}
+
+.. :note: for questions that have multiple parts, read the string of numbers from right to left the second digit refers to the number of the part. The numbering starts with 2. For example, the first question part would be 62be225bca294ef09c45b4b92802be71_2_1 and the second question part would be 62be225bca294ef09c45b4b92802be71_3_1
+
 
 .. figure:: ../../images/CommonIssues_ProblemResponseHistory.png
    :alt: image
