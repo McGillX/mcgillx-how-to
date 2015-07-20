@@ -19,6 +19,8 @@ Copy and paste the template below into the html editor:
     <h3>Subtitle paragraph below with event time annoucement</h3>
     <br>
     <p>Your first assignment which is due on Friday, February 13 at 23:30 UTC (click<a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Homework%3A+Assignment+%231&iso=20150213T1130&p1=1440" target="_blank"> here </a>to see time conversion).</p>
+    
+    .. figure:: ../../images/CourseAnnoucement.png
 
 2. Preview the announcement in the live edge course
 
@@ -40,7 +42,7 @@ for updates.) Respond to the thread with a link to the update.
       [1]: https://courses.edx.org/courses/McGillX/ATOC185x_2/1T2015/info#title-of-update
 
 
-.. figure:: ../../images/CourseAnnoucement.png
+
 
 .. figure:: ../../images/CourseAnnoucement2.png
 
