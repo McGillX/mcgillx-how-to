@@ -2,14 +2,14 @@
 
 Course Discussion Threads need to be intergrated with the course material, with links going to and from the post to the material.  
 
-### Open the studio and course page related to the activity
+##### Open the studio and course page related to the activity
 
 
 ![image](../../images/StaffThreads1.png)
 
 ![image](../../images/StaffThreads2.png)
 
-### On the Course Page:
+##### On the Course Page:
 
 Here you will create a create a thread on the discussion forum.
 
@@ -24,7 +24,7 @@ Here you will create a create a thread on the discussion forum.
 
 
 
-### On the Studio Page:
+##### On the Studio Page:
 
 1. Click edit on the component which contains the “here” hyperlink
 2. In the window that opens edit the html
@@ -34,12 +34,13 @@ Here you will create a create a thread on the discussion forum.
 6. Click Publish
 7. Test that the hyperlink on the studio page takes you to the discussion post.
 
-inset image staff threads 3.5
+inset image staff threads 
+![image](../../images/StaffThreads3-1.png)
 ![image](../../images/StaffThreads4.png)
 
 
 
-### Complete the discussion post
+##### Complete the discussion post
 
 1. Go back to the discussion post
 2. Hyperlink the title to the activity in the courseware (the normal courseware, not the studio version) 

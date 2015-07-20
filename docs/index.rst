@@ -7,7 +7,7 @@ This documentation is meant as a reference for McGillX staff.
    :maxdepth: 2
    
    mdfiles/discussion_monitoring
-   mdfiles/common_issues_and_resolutions
+   rstfiles/common_issues_and_resolutions
    rstfiles/annoucements
    mdfiles/creating_course_discussion_threads
    rstfiles/class_emails
