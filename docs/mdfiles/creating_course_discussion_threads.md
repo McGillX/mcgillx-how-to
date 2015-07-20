@@ -1,6 +1,6 @@
 ## Creating Course Discussion Threads
 
-Course Discussion Threads need to be intergrated with the course material, with links going to and from the post to the material.  
+Course Discussion Threads need to be intergrated with the course material, with links going to and from the post to the related course material.  
 
 ##### Open the studio and course page related to the activity
 

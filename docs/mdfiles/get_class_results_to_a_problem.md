@@ -7,12 +7,9 @@
 
 ![image](../../images/ClassResultsDownload1.png)
 
-
 ![image](../../images/ClassResultsDownload2.png)
 
-
 ![image](../../images/ClassResultsDownload3.png)
-
 
 ![image](../../images/ClassResultsDownload4.png)
 

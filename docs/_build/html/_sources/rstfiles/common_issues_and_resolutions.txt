@@ -46,7 +46,7 @@ Problems with Drag and Drop
 Students may complain about not being able to complete the drag-and-drop questions on their tablets or phones. Notify them this is a limitation of the edX platform which McGillX has no control over. edX is working towards creating mobile friendly interactions for the future. Advise them to answer the questions on another device.
 
 Browser Related Issues
-======================
+-----------------------------------------------
 Many technical issues students report can be resolved by using an alternative browser. Ask them which browser and on what device the issue arouse. We advise against using Internet Explorer; suggest Chrome or Firefox as an alternative. Chrome often has the fewest issues. 
 
 Issues can result if students have disabled javascript; advise them to enable JavaScript when using the edX platform. 
@@ -65,24 +65,10 @@ For directions on enabling javascript:
     3. Make sure the 'Enable JavaScript' checkbox is ticked and the 'Accept Cookies - Always' option is selected. ...
     4. Now that you have completed these steps click the Close button at the top of the window.
 
-Student Progress Page
-======================
-
-If students are curious about their course progress and grading, refer them to their **Progress Page**. This is accessible from the main header.
-
-As a course assistant, to check a specific students progress, click the **Instructor** tab, then the **STUDENT ADMIN** sub-tab. Insert the student’s email address or username into the box, and click the “**Student Progress Page**” hyperlink.
-
-.. figure:: ../../images/CommonIssues_StudentProgressSmall.png
-   :alt: image
-
-.. figure:: ../../images/CommonIssues_StudentProgress2Small.png
-   :alt: image
-
-
 Problem Submission History
-==========================
+-----------------------------------------------
 
-If a student complains about answering a question correctly, but having it scored wrong, check the student’s response to question. You can do this as well in the case that the student complains about a glitch of any sort.
+If a student has an issue with a problem/exercise it's often useful to check the student’s response to question.
 
 To look at a student’s responses to a specific question:
 
@@ -100,11 +86,12 @@ To look at a student’s responses to a specific question:
 .. figure:: ../../images/CommonIssues_ProblemResponseHistory1.5.png
    :alt: image
 
-
 Reset Problem Attempts
-=======================
+-----------------------------------------------
 
-If a student has made a valid complaint about a question, and you decide to reset their answer submissions, find the question in the courseware and click “**STAFF DEBUG INFO**”. Enter the student’s username, and click “**Reset Student Attempts**”.
+If a student has made a valid complaint about a question, we may reset their answer submissions, find the question in the courseware and click “**STAFF DEBUG INFO**”. Enter the student’s username, and click “**Reset Student Attempts**”.
+
+.. :warning: BEFORE resetting a student's submissions please discuss the issue with the other course staff so that if needed the problem can be adjusted and future issues may be avoided
 
 .. figure:: ../../images/CommonIssues_ResetSubmissions.png
    :alt: image
@@ -112,4 +99,16 @@ If a student has made a valid complaint about a question, and you decide to rese
 .. figure:: ../../images/CommonIssues_ResetSubmissions2.png
    :alt: image
 
+Student Progress Page
+-----------------------------------------------
+
+If students are curious about their current progress and grade in the course, refer them to their **Progress Page**. This is accessible from the main header. To clarify aspects of their progress page it may help to look at the student's progress page.
+
+To access a student's progress page, click the **Instructor** tab, then the **STUDENT ADMIN** sub-tab. Insert the student’s email address or username into the box, and click the “**Student Progress Page**” hyperlink.
+
+.. figure:: ../../images/CommonIssues_StudentProgressSmall.png
+   :alt: image
+
+.. figure:: ../../images/CommonIssues_StudentProgress2Small.png
+   :alt: image
 
