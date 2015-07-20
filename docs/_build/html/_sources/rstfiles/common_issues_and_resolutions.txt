@@ -79,7 +79,7 @@ To look at a student’s responses to a specific question:
      - "last_submission_time": "2015-07-20T19:21:17Z"
      - "student_answers": {"62be225bca294ef09c45b4b92802be71_2_1": "choice_2", "62be225bca294ef09c45b4b92802be71_3_1": "choice_1"}
 
-.. note:: For questions that have multiple parts, read the string of numbers from right to left the second digit refers to the number of the part. The numbering starts with 2. For example, the first question part would be 62be225bca294ef09c45b4b92802be71_2_1 and the second question part would be 62be225bca294ef09c45b4b92802be71_3_1
+.. note:: For questions that have multiple parts, read the string of numbers from right to left the second digit refers to the number of the part. The numbering starts with 2. For example, the first question part would be 62be225bca294ef09c45b4b92802be71_2_1 and the second question part would be 62be225bca294ef09c45b4b92802be71_3_1.
 
 
 .. figure:: ../../images/CommonIssues_ProblemResponseHistory.png
