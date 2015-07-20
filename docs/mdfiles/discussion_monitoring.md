@@ -42,7 +42,7 @@ ___
 
 ###  Subscribing to email digests
 
-To receive notifications of new responses in the daily digest email, make sure you have signed up for it. This page is displayed when you click the discussion tab in the header.
+To receive notifications of new responses in the daily digest email, make sure you have signed up for it. This page is displayed when you click the **Discussion** tab in the header.
 
 ![image](../../images/Discussion_SubsciptionEmailDigestSmall.png)
 
@@ -50,7 +50,7 @@ To receive notifications of new responses in the daily digest email, make sure y
 ___
 ### Discussion Filtering
 
-To filter discussions by category or by type, click on the appropriate icon. To look at discussions that pertain to a specific lesson or topic, filter by category. To look only at unread, unanswered, or flagged posts, click on the indicated icon. To filter posts by recent activity, total activity, or total votes, click on the final icon. Multiple filters can be applied simultaneously. For example, you could order the posts of a specific topic by most recent activity.
+You can filter discussions posts by topic or by activity. To look at discussions that pertain to a specific lesson or topic, click "**All Discussions**." To look only at unread, unanswered, or flagged posts, click "**Show all**." To sort posts in order of recent activity, total activity, or total votes, click on "**by recent activity**."the lower right icon. Multiple filters can be applied simultaneously. For example, you could order the posts of a specific topic by most recent activity.
 
 ![image](../../images/Discussion_FilteringCategoriesSmall.png)
 
