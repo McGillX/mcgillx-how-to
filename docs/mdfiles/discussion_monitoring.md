@@ -18,9 +18,6 @@
 
 - Students often forget to reference the location of the issue within the course. Politely ask them refer to the specific week/topic #, video #, question #, and time mark in the video so that you may better assist them.
 
-![image](../../images/Navigation_Courseware.png)
-
-
 - After you answer a student's question, try to stimulate further discussion. For example, you could ask a follow up question or ask other students to chime in.
 
 - When posting or responding in the discussion board try to support your claims and arguments with citations. If you are stating your opinion, make sure to mention that in your comment.
