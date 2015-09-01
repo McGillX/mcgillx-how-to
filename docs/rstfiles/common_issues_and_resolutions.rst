@@ -82,15 +82,15 @@ To look at a student’s responses to a specific question:
 .. note:: For questions that have multiple parts, read the string of numbers from right to left the second digit refers to the number of the part. The numbering starts with 2. For example, the first question part would be 62be225bca294ef09c45b4b92802be71_2_1 and the second question part would be 62be225bca294ef09c45b4b92802be71_3_1.
 
 
-.. figure:: ../../images/CommonIssues_ProblemResponseHistory.png
+.. figure:: ../../images/CommonIssues_ProblemResponseHistory-v2-1.png
    :alt: image
 
 
-.. figure:: ../../images/CommonIssues_ProblemResponseHistory.png
+.. figure:: ../../images/CommonIssues_ProblemResponseHistory-v2-2.png
    :alt: image
 
 
-.. figure:: ../../images/CommonIssues_ProblemResponseHistory1.5.png
+.. figure:: ../../images/CommonIssues_ProblemResponseHistory-v2-3.png
    :alt: image
 
 Reset Problem Attempts
@@ -100,10 +100,10 @@ If a student has made a valid complaint about a question, we may reset their ans
 
 .. :warning: BEFORE resetting a student's submissions please discuss the issue with the other course staff so that if needed the problem can be adjusted and future issues may be avoided
 
-.. figure:: ../../images/CommonIssues_ResetSubmissions.png
+.. figure:: ../../images/ResetProblemAttempts-v1-1.png
    :alt: image
 
-.. figure:: ../../images/CommonIssues_ResetSubmissions2.png
+.. figure:: ../../images/ResetProblemAttempts-v1-2.png
    :alt: image
 
 Student Progress Page
