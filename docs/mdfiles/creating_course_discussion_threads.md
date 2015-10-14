@@ -46,5 +46,5 @@ inset image staff threads
 2. Hyperlink the title to the activity in the courseware (the normal courseware, not the studio version) 
 3. Finish the discussion post by adding a description and ensuring the URL has a number corresponding to the page number after the slash.
 
-![image](../../images/StaffThreads5v2.png)
+![image](../../images/StaffThread5v2.png)
 
