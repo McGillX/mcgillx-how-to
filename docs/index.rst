@@ -12,6 +12,7 @@ This documentation is meant as a reference for McGillX staff.
    mdfiles/creating_course_discussion_threads
    rstfiles/class_emails
    mdfiles/get_class_results_to_a_problem
+   rstfiles/transcription
 
 Adding to the How To Guide
 -------------------------------------------
