@@ -42,13 +42,3 @@ Rev returns transcripts to the associated Youtube video automatically. You can u
 6. Publish the edits once you have finished
 
 
-
-
-
-Manual Upload Transcripts to Youtube
----------------------------------------------------
-
-Ocassionally, there have been issues with the automated return of Rev transcripts to Youtube, requiring manual upload to Youtube. 
-
-1. Log onto the McGillx Content Manager account on Youtube. If your account is linked to the McGill account, you can access this by clicking the icon in the top left corner [labeled “1.” in the screenshot]. If your account is not linked, request access from the system administrator.
-
