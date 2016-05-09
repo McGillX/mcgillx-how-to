@@ -29,12 +29,26 @@ Uploading Transcripts to Rev
 Reviewing Transcripts from Rev
 ---------------------------------------------------
 
+Rev returns transcripts to the associated Youtube video automatically. You can use the Youtube transcript editor to review and edit the transcripts.
+
+1. Go to the `McGillX Youtube Content Manager Dashboard <https://www.youtube.com/dashboard?o=BGlye001lwz6jaZIjyqHzg>`_
+2. Select Video Manager from the left hand panel
+3. Find the video in need of review and editing
+4. Select "Subtitles and CC" from the dropdown carrot next to "Edit"
+5. Click the set of substitles labelled as "English - Default" to begin editing
+
+.. figure:: ../../images/youtube-transcript-english-default.png
+
+6. Publish the edits once you have finished
+
+
+
 
 
 Manual Upload Transcripts to Youtube
 ---------------------------------------------------
 
-Rev normally returns transcripts to the associated Youtube video automatically. Ocassionally, there have been issues with the automation, requiring manual upload to Youtube. 
+Ocassionally, there have been issues with the automated return of Rev transcripts to Youtube, requiring manual upload to Youtube. 
 
 1. Log onto the McGillx Content Manager account on Youtube. If your account is linked to the McGill account, you can access this by clicking the icon in the top left corner [labeled “1.” in the screenshot]. If your account is not linked, request access from the system administrator.
 
