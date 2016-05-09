@@ -19,7 +19,11 @@ Uploading Transcripts to Rev
 6. Select the account for the associated course
 7. Click "Allow" on the permissions window that appears
 8. Select the video or videos and click "Add Selected to Cart"
+
+
 .. figure:: ../../images/rev-youtube-integration.png
+
+
 .. note:: videos that display a "CC" in the lower left corner of the thumbnail have transcripts associated with them already.
 
 Reviewing Transcripts from Rev
