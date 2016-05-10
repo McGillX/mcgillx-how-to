@@ -35,7 +35,7 @@ Rev returns transcripts to the associated Youtube video automatically. You can u
 2. Select Video Manager from the left hand panel
 3. Find the video in need of review and editing
 4. Select "Subtitles and CC" from the dropdown carrot next to "Edit"
-5. Click the set of substitles labelled as "English - Default" to begin editing
+5. Click the set of subtitles labelled as "English - Default" to begin editing
 
 .. figure:: ../../images/youtube-transcript-english-default.png
 
